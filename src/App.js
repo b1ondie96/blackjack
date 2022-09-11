@@ -1,9 +1,10 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Blackjack from './Blackjack';
 
 function App() {
   return (
-    
+    <Blackjack/>
   );
 }
 
